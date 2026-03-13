@@ -29,7 +29,7 @@ Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamie
 ## 🖥 Backend
 - 🧱 Arquitectura **MVC**
 - 🧩 Creación de **controladores, modelos y vistas**
-- ⚙️ Planificacion, Desarrollo e Implementación de **lógica de negocio**
+- ⚙️ Planificacion, Diseño e Implementación de **lógica de negocio**
 - 🔐 **Validaciones en backend**
 - 🗄 **Consultas SQL**
 - 🧮 **Diseño de bases de datos**
