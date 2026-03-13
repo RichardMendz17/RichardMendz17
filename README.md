@@ -22,16 +22,16 @@ Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamie
 ## 🖥 Backend
 - 🧱 Arquitectura **MVC**
 - 🧩 Creación de **controladores, modelos y vistas**
-- ⚙️ Implementación de **lógica de negocio**
+- ⚙️ Planificacion, Desarrollo e Implementación de **lógica de negocio**
 - 🔐 **Validaciones en backend**
-- 🗄 **Consultas SQL complejas**
+- 🗄 **Consultas SQL**
 - 🧮 **Diseño de bases de datos**
-- 🔗 **Creación de APIs**
+- 🔗 **Diseño y Codificación de APIs**
 
 ---
 
 ## 🎨 Frontend
-- 🧩 **Maquetado** con HTML y CSS
+- 🧩 **Maquetado** con HTML y CSS(SCSS)
 - 🎯 **Diseño de interfaz**
 - ⚡ **JavaScript**
 - 🔄 **AJAX para comunicación asincrónica**
@@ -58,7 +58,8 @@ Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamie
 ---
 
 ## 🔒 Proyectos
-Algunos proyectos desarrollados durante **servicio social y residencia profesional** se mantienen en **repositorios privados** por razones académicas o de confidencialidad, pero pueden mostrarse bajo solicitud.
+Algunos proyectos desarrollados durante **servicio social y residencia profesional** se mantienen en **repositorios privados** por de confidencialidad.
+Para **procesos de reclutamiento o vacantes relacionadas con desarrollo**, puedo proporcionar **demostraciones y explicaciones de funcionalidad, capturas del sistema o explicaciones técnicas de la arquitectura y tecnologías utilizadas**, bajo solicitud.
 
 ---
 
