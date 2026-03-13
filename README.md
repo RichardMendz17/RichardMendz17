@@ -49,7 +49,7 @@ Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamie
 ---
 
 ## 🗄 Arquitectura y Base de Datos
-- 📊 **Modelado de bases de datos**
+- 📊 **Modelado de bases de datos relacionales**
 - 🔗 **Integridad relacional**
 - 📐 **Normalización de datos**
 - 🧷 **Claves foráneas**
