@@ -1,58 +1,65 @@
+# 👋 Hey, I'm Richard
 
-# Hey, I'm Richard
+💻 **Full-Stack Web Developer**
 
-Full-Stack Web Developer especializado en PHP, JavaScript y arquitectura MVC. Experiencia en desarrollo de aplicaciones desde cero, levantamiento de requisitos, diseño de bases de datos, consultas SQL, implementación de APIs, validaciones frontend/backend y despliegue en hosting.
+Especializado en **PHP, JavaScript y arquitectura MVC**.  
+Experiencia desarrollando **aplicaciones web desde cero**, incluyendo diseño de base de datos, consultas SQL complejas, implementación de APIs, validaciones frontend/backend y despliegue en servidores.
 
-Habilidades tecnicas:
+---
 
-Backend
+## 🛠 Tech Stack
 
-   - Arquitectura MVC
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-   - Creación de controladores, modelos y vistas
+---
 
-   - Lógica de negocio
+# ⚙️ Habilidades Técnicas
 
-   - Validaciones en backend
+## 🖥 Backend
+- 🧱 Arquitectura **MVC**
+- 🧩 Creación de **controladores, modelos y vistas**
+- ⚙️ Implementación de **lógica de negocio**
+- 🔐 **Validaciones en backend**
+- 🗄 **Consultas SQL complejas**
+- 🧮 **Diseño de bases de datos**
+- 🔗 **Creación de APIs**
 
-   - Consultas SQL complejas
+---
 
-   - Diseño de base de datos
+## 🎨 Frontend
+- 🧩 **Maquetado** con HTML y CSS
+- 🎯 **Diseño de interfaz**
+- ⚡ **JavaScript**
+- 🔄 **AJAX para comunicación asincrónica**
+- ✅ **Validaciones en frontend**
+- 🔗 **Integración con APIs**
 
-   - Creación de APIs
+---
 
-Frontend:
+## 🗄 Arquitectura y Base de Datos
+- 📊 **Modelado de bases de datos**
+- 🔗 **Integridad relacional**
+- 📐 **Normalización de datos**
+- 🧷 **Claves foráneas**
 
-   - Maquetado (HTMLY CSS)
+---
 
-   - Diseño de interfaz
+## 🚀 Despliegue (DevOps Básico)
+- 🌐 **Despliegue en hosting**
+- ⚙️ **Configuración de `.htaccess`**
+- 🧭 **Manejo de rutas**
+- 🛠 **Ajuste de aplicaciones para producción**
+- 🐞 **Resolución de errores de servidor**
 
-   - JavaScript
+---
 
-   - AJAX para comunicación asincrónica
+## 🔒 Proyectos
+Algunos proyectos desarrollados durante **servicio social y residencia profesional** se mantienen en **repositorios privados** por razones académicas o de confidencialidad, pero pueden mostrarse bajo solicitud.
 
-   - Validaciones en frontend
+---
 
-   - Integración con APIs
-
-Arquitectura y base de datos
-   - Modelado de base de datos
-
-   - Integridad Relacional
-
-   - Normalización de datos
-
-   - Claves foráneas
-
-
-Despliegue (DevOps básico)
-
-   - Despliegue en hosting
-
-   - Configuración de .htaccess
-
-   - Manejo de rutas
-
-   - Ajuste de la app para producción
-
-   - Resolución de errores de servidor
+⭐ Siempre interesado en mejorar mis habilidades en **arquitectura de software, optimización de bases de datos y desarrollo de aplicaciones web escalables**.
