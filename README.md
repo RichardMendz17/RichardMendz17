@@ -14,6 +14,12 @@ Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamie
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge&logo=sweetalert&logoColor=white)
 
 ---
 
@@ -66,6 +72,24 @@ Para **vacantes relacionadas con desarrollo web que requieran mis habilidades t�
 ---
 
 ⭐ Siempre interesado en mejorar mis habilidades en **arquitectura de software, optimización de bases de datos y desarrollo de aplicaciones web escalables**.
+
+## 📚 Aprendizaje Actual
+
+Actualmente estoy **ampliando mis habilidades en Laravel 9** y en el ecosistema moderno de desarrollo web.
+
+🎓 **Curso en progreso:**  
+[Aprende todo sobre Laravel: Sail, Docker, Livewire, Tailwind CSS, React, API's, Autenticación con PROYECTOS REALES – Udemy]
+
+🧠 **Tecnologías que estoy aprendiendo actualmente:**
+
+- ⚡ Laravel 9
+- 🐳 Docker
+- 🚀 Laravel Sail
+- 🔄 Livewire
+- 🎨 Tailwind CSS
+- ⚛ React
+- 🔗 Desarrollo de APIs
+- 🔐 Autenticación en aplicaciones web
 
 ### GitHub Stats
 
