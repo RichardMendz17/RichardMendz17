@@ -32,7 +32,7 @@ Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamie
 - ⚙️ Planificacion, Diseño e Implementación de **lógica de negocio**
 - 🔐 **Validaciones en backend**
 - 🗄 **Consultas SQL**
-- 🧮 **Diseño de bases de datos**
+- 🧮 **Diseño de bases de datos relacionales**
 - 🔗 **Diseño y Codificación de APIs**
 
 ---
