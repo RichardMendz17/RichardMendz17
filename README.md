@@ -66,3 +66,7 @@ Para **vacantes relacionadas con desarrollo web que requieran mis habilidades t�
 ---
 
 ⭐ Siempre interesado en mejorar mis habilidades en **arquitectura de software, optimización de bases de datos y desarrollo de aplicaciones web escalables**.
+
+### GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RichardMendz17)](https://git.io/streak-stats)
