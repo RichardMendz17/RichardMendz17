@@ -1,7 +1,8 @@
 
 # Hey, I'm Richard
 
-Full-Stack Web Developer especializado en PHP, JavaScript y arquitectura MVC. Experiencia en desarrollo de aplicaciones desde cero, diseño de bases de datos, consultas SQL complejas, implementación de APIs, validaciones frontend/backend y despliegue en servidores.
+Full-Stack Web Developer especializado en PHP, JavaScript y arquitectura MVC. Experiencia en desarrollo de aplicaciones desde cero, levantamiento de requisitos, diseño de bases de datos, consultas SQL, implementación de APIs, validaciones frontend/backend y despliegue en hosting.
+
 Habilidades tecnicas:
 
 Backend
