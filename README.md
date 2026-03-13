@@ -3,7 +3,7 @@
 💻 **Full-Stack Web Developer**
 
 Especializado en **PHP, JavaScript y arquitectura MVC**.  
-Experiencia desarrollando **aplicaciones web desde cero**, incluyendo diseño de base de datos, consultas SQL complejas, implementación de APIs, validaciones frontend/backend y despliegue en servidores.
+Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamiento de requisitos, diseño de base de datos, consultas SQL, implementación de APIs, validaciones frontend/backend y despliegue en hosting.
 
 ---
 
