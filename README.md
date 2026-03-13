@@ -58,7 +58,7 @@ Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamie
 ---
 
 ## 🔒 Proyectos
-Algunos proyectos desarrollados durante **servicio social y residencia profesional** se mantienen en **repositorios privados** por de confidencialidad.
+Algunos proyectos desarrollados durante **servicio social y residencia profesional** se mantienen en **repositorios privados** por confidencialidad.
 Para **procesos de reclutamiento o vacantes relacionadas con desarrollo**, puedo proporcionar **demostraciones y explicaciones de funcionalidad, capturas del sistema o explicaciones técnicas de la arquitectura y tecnologías utilizadas**, bajo solicitud.
 
 ---
