@@ -20,6 +20,7 @@ Experiencia desarrollando **aplicaciones web desde cero**, incluyendo levantamie
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge&logo=sweetalert&logoColor=white)
+![MVC](https://img.shields.io/badge/Architecture-MVC-blue?style=for-the-badge)
 
 ---
 
