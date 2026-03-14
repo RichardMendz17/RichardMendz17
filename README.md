@@ -79,9 +79,6 @@ Para **vacantes relacionadas con desarrollo web que requieran mis habilidades t�
 
 Actualmente estoy **ampliando mis habilidades en Laravel 9** y en el ecosistema moderno de desarrollo web.
 
-🎓 **Curso en progreso:**  
-[Aprende todo sobre Laravel: Sail, Docker, Livewire, Tailwind CSS, React, API's, Autenticación con PROYECTOS REALES – Udemy]
-
 🧠 **Tecnologías que estoy aprendiendo actualmente:**
 
 - ⚡ Laravel 9
